@@ -1,4 +1,4 @@
-# Demo服务实例部署文档
+# MySQL社区版服务实例部署文档
 ## 概述
 MySQL是一个开放源码的小型关联式数据库管理系统。MySQL在计算巢上提供了社区版服务，您无需自行配置云主机，即可在计算巢上快速部署MySQL服务、实现运维监控，从而方便地基于MySQL搭建您自己的应用。本文向您介绍如何开通计算巢上的MySQL社区版服务，以及部署流程和使用说明。
 ## 计费说明
@@ -33,10 +33,7 @@ MySQL服务需要对ECS、VPC等资源进行访问和创建操作，若您使用
 
 ## 部署流程
 ### 部署步骤
-
-1. 单击下面的部署链接，进入服务实例部署界面，根据界面提示，填写参数完成部署。
-
-[部署链接](https://computenest.console.aliyun.com/user/cn-hangzhou/serviceInstanceCreate?ServiceId=service-2cf2013cb5084c318628&ServiceVersion=1)
+单击[部署链接](https://computenest.console.aliyun.com/user/cn-hangzhou/serviceInstanceCreate?ServiceId=service-2cf2013cb5084c318628)，进入服务实例部署界面，根据界面提示，填写参数完成部署。
 
 ### 
 ### 部署参数说明
